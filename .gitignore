@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Data & models — never in git
+data/
+models/
+mlruns/
+
+# Secrets
+.env
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
