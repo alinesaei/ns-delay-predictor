@@ -1,7 +1,7 @@
 [project]
 name = "ns-delay-predictor"
 version = "0.1.0"
-description = "Add your description here"
+description = "NS Delay Predictor System"
 readme = "README.md"
 authors = [
     { name = "alinesaei", email = "nesaeialii@gmail.com" }
